@@ -10,3 +10,6 @@ function keliling_persegi($p, $l){
 	return $keliling;
 }
 ?>
+<?php
+//tdk menampilkan eror pada php
+?>

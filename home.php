@@ -27,3 +27,6 @@
 	<input type="text" name="lebar"><br />
 	<input type="submit" value="Hitung">
 </form>
+<?php
+//Nama Sella novitasari
+?>
